@@ -1,8 +1,7 @@
 ## Bem-vindo(a) ao perfil do Jetistrim 😁
 
  <div>
-   <a href="https://github.com/Jetistrim
-">
+   <a href="https://github.com/Jetistrim">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jetistrim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jetistrim&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
